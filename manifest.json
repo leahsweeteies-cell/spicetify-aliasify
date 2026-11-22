@@ -1,0 +1,8 @@
+{
+  "name": "Aliasify",
+  "description": "Replace cover art and rename any album, single, EP, or song everywhere inside Spotify.",
+  "preview": "preview.png",
+  "main": "aliasify.js",
+  "readme": "README.md",
+  "tags": ["customization", "utility", "cover-art"]
+}
